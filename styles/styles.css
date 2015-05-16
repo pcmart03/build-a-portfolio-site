@@ -1,0 +1,57 @@
+
+
+* {
+  font-family: 'Open Sans Condensed', sans-serif;
+  color: #a8a8a8;
+}
+
+hr {
+  border-top: 2px solid #e00038;
+  padding-top: 0;
+  margin-top: 0;
+}
+
+h2 {
+  color: #ca0035;
+}
+
+a {
+  font-size: 1.2em;
+}
+.ownerName {
+  padding-right: 0;
+}
+.boxes {
+  margin-bottom: 10px;
+}
+
+.box {
+  border-right: 1px solid #BCBBBB;
+}
+
+.box:last-of-type {
+  border-right: none;
+}
+
+.box h3 {
+  margin-top:10px;
+  margin-bottom: 5px;
+}
+#myName {
+  color: #ca0035;
+}
+
+#logo {
+  padding-bottom: 0;
+}
+
+#logo span{
+  font-size: 5em;
+  color: #ca0035;
+}
+
+hr {
+  border-top: 2px solid #e00038;
+  padding-top: 0;
+  margin-top: 0;
+}
